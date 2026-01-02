@@ -16,8 +16,8 @@
 5. <a href="05.md">Tags para Listas</a>✔
 6. <a href="06.md">Tags para Hyperlink</a>✔
 7. <a href="07.md">Tags para Imagem</a>✔
-8. <a href="08.md">Tags Multimídia (Áudio e Vídeo)</a>✔
-9. <a href="09.md">Tags para Formulário</a>✔
+8. <a href="08.md">Formulário</a>✔
+9. <a href="09.md">Multimídia (Áudio e Vídeo)</a>✔
 10. <a href="10.md">SEO</a>✔
 11. <a href="11.md">Acessibilidade</a>✔
 
