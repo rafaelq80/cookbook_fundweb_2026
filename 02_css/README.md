@@ -38,10 +38,10 @@
 
 
 
-1. <a href="pr01.md">Projeto 01 - Portfólio - Criar a Folha de Estilos style.css</a>
-2. <a href="pr02.md">Projeto 01 - Portfólio - Estilos Globais - Parte 01</a>
-3. <a href="pr03.md">Projeto 01 - Portfólio - Estilos Globais - Parte 02</a>
-4. <a href="pr04.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Header</a>
+1. <a href="pr01.md">Projeto 01 - Portfólio - Criar a Folha de Estilos style.css</a>✔
+2. <a href="pr02.md">Projeto 01 - Portfólio - Estilos Globais - Parte 01</a>✔
+3. <a href="pr03.md">Projeto 01 - Portfólio - Estilos Globais - Parte 02</a>✔
+4. <a href="pr04.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Header</a>✔
 5. <a href="pr05.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Hero</a>
 6. <a href="pr06.md">Projeto 01 - Portfólio - Estilização da Página index - Seção About</a>
 7. <a href="pr07.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Projects - Carrossel</a>
