@@ -48,10 +48,10 @@
 8. <a href="pr08.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Projects - Carrossel</a>✔
 9. <a href="pr09.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Contact - Redes Sociais</a>✔
 10. <a href="pr10.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Contact - Formulário</a>✔
-11. <a href="pr11.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Footer</a>
-12. <a href="pr12.md">Projeto 01 - Portfólio - Página Success</a>
-13. <a href="pr13.md">Projeto 01 - Portfólio - Responsividade - Celulares</a>
-14. <a href="pr14.md">Projeto 01 - Portfólio - Responsividade - Tablets</a>
+11. <a href="pr11.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Footer</a>✔
+12. <a href="pr12.md">Projeto 01 - Portfólio - Página Success</a>✔
+13. <a href="pr13.md">Projeto 01 - Portfólio - Responsividade - Tablets</a>✔
+14. <a href="pr14.md">Projeto 01 - Portfólio - Responsividade - Celulares</a>✔
 
 <br /><br />
 
