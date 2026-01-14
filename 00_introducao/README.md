@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/Dxz805G.png" title="source: imgur.com" width="70%"/> 
+    <img src="https://i.imgur.com/ydBzEAs.png" title="source: imgur.com" width="70%"/> 
 </div>
 <h1>Bootcamp - Full Stack - Fundamentos WEB</h1>
 
